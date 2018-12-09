@@ -1,0 +1,8 @@
+# joe
+*~
+# mac
+.DS_Store
+# venv
+.venv
+# virtual studio code
+.vscode
